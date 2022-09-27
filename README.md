@@ -6,4 +6,5 @@ A quick set of webpages. No styles. Starting to work through the Odin curriculum
 ## Skill learnt
 1. Consolidating markdown skills. 
 2. Hosting pages(s) from Github. 
-3. Regular and clear commits on the repo from own machine following local setup and no longer working from Goorm container.
+3. Regular and clear commits on the repo.
+4. Working from own machine following local setup and no longer Goorm container.
